@@ -1,6 +1,6 @@
 {
-    "name": "administrator/mindao",
-    "description": "administrator/mindao",
+    "name": "daocaoren/mindao",
+    "description": "daocaoren/mindao",
     "require": {
         "php": "7.3.*"
     },

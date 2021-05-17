@@ -1,0 +1,12 @@
+{
+    "name": "administrator/mindao",
+    "description": "administrator/mindao",
+    "require": {
+        "php": "7.3.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "flower\\dao": "/src/dao"
+        }
+    }
+}
